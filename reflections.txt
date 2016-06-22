@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+* What new skills have you learned?
+  I have learned how to translate the mockup image into a website. I also have learned a lot more new HTML elements.
+
+* What has been easy?
+  It’s easy to apply those newly learned elements on my HTML. MDN element reference is super useful and all examples there are very clearly illustrated.
+
+* What has been difficult?
+  I feel it’s not easy to observe all the details of the mockup image, like differences among fonts, hyperlinks and superscripts. It’s a very detail-oriented work. And even if I have noticed all of them and then go to research for elements, it’s not easy to discribe those distinctions in English(English is not my first language). Therefore I took the hints the project instruction gave. 
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+  I had a little fear when I saw the mockup image. I thought it looked complicated. I don’t actually have any problem solving strategies except encouraging myself “I can handle this”. After all there are many ways I can look for help, and for most problems I can get answers on Google. So just move little by little, and be patient. Also, I encourage myself to experiment, and not to be afraid of having bugs. Because I can only learn things by trying and fixing problems.
+
+
+
