@@ -1,2 +1,4 @@
 # mock-to-article
-Udacity Project1. Alpha Go Article.
+Project1. Alpha Go Article.
+
+Udacity Front-End Web Developer Nanodegree
